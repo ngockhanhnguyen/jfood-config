@@ -16,7 +16,7 @@ spring:
         ddl-auto: update
 
 ## MULTIPART (MultipartProperties)
-  servlet:
+  http:
     multipart:
       enabled: true
 # Threshold after which files are written to disk.
