@@ -1,0 +1,8 @@
+#mongodb
+spring:
+  data:
+    mongodb:
+      host: ngockhanh
+      port: 27017
+      database: jfood-cart
+
